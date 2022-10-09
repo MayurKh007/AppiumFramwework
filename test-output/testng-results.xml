@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47508" started-at="2022-09-23T08:18:21Z" finished-at="2022-09-23T08:19:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47508" started-at="2022-09-23T08:18:21Z" finished-at="2022-09-23T08:19:08Z">
+      <class name="com.org.test.eCommerce_tc_4_HybridApp">
+        <test-method status="PASS" signature="testapp()[pri:0, instance:com.org.test.eCommerce_tc_4_HybridApp@4f638935]" name="testapp" is-config="true" duration-ms="10786" started-at="2022-09-23T08:18:21Z" finished-at="2022-09-23T08:18:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testapp -->
+        <test-method status="PASS" signature="eCommerce_TC_01()[pri:0, instance:com.org.test.eCommerce_tc_4_HybridApp@4f638935]" name="eCommerce_TC_01" duration-ms="36197" started-at="2022-09-23T08:18:32Z" finished-at="2022-09-23T08:19:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eCommerce_TC_01 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.org.test.eCommerce_tc_4_HybridApp@4f638935]" name="teardown" is-config="true" duration-ms="506" started-at="2022-09-23T08:19:08Z" finished-at="2022-09-23T08:19:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.org.test.eCommerce_tc_4_HybridApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
